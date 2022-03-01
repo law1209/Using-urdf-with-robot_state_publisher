@@ -1,3 +1,3 @@
 # Using-urdf-with-robot_state_publisher
-urdf/Tutorials/Using urdf with robot_state_publisher
-Python scripts
+Python scripts for "urdf/Tutorials/Using urdf with robot_state_publisher"
+
